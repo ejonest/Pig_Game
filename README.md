@@ -1,5 +1,5 @@
 # Pig_Game
-Python implementation of the game pig. (1-4) players
+Python implementation of the game "pig". (1-4) players
 
 ## Who can play?
 Anyone can play it is a fairly simple game intended for 1-4 players
